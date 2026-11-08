@@ -1,5 +1,5 @@
 ================================================
-	   Group 4 - Matrix Toolkit
+	   		Group 4 - Matrix Toolkit
 ================================================
 Step 1. To run this matrix toolkit you need an IDE software (PyCharm, Vscode) or online compiler (programiz, onecompiler).
 Step 2. After this you will paste the code (provided in repository link) inside it and you can use or run the program now.
@@ -7,7 +7,7 @@ Step 3. Done!
 
 Program main menu:
 ================================================
-		 MATRIX TOOLKIT
+		 		MATRIX TOOLKIT
 ================================================
 1. Matrix Addition (A + B)
 2. Matrix Multiplication (A x B)
