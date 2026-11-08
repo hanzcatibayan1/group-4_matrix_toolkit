@@ -3,7 +3,7 @@
 ================================================
 Step 1. To run this matrix toolkit you need an IDE software (PyCharm, Vscode) or online compiler (programiz, onecompiler).
 Step 2. After this you will paste the code (provided in repository link) inside it and you can use or run the program now.
-3. Done!
+Step 3. Done!
 
 Program main menu:
 ================================================
