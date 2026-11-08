@@ -2,7 +2,8 @@
 	   		Group 4 - Matrix Toolkit
 ================================================
 Step 1. To run this matrix toolkit you need an IDE software (PyCharm, Vscode) or online compiler (programiz, onecompiler).
-Step 2. After this you will copy and paste the code (provided in repository link) in the IDE or compiler and you can use or run the program now.
+Step 2. After this you will copy and paste the code (provided in repository link) in the IDE or compiler and you can use or
+run the program now.
 Step 3. Done!
 
 Program main menu:
