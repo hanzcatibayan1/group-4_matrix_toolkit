@@ -228,4 +228,4 @@ try:
         print("Invalid choice! Please restart and select an option between 1 and 6.")
 
 except ValueError:
-    print("Invalid input. All inputs must be integers only!")
+    print("Invalid input. All inputs must be integers only and should match the range")
